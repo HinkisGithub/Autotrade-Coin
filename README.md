@@ -1,2 +1,1 @@
-# fluffy-enigma
-Coin 자동 매매
+# 코인 자동매매 프로그램
